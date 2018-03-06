@@ -1,8 +1,8 @@
 ## Simple Moving Average(SMA) Cross-over Algorithmic Trading Strategy
 
 ## Aim:
-1. To implement simple moving average crossover algorithmic trading strategy, backtesting, evaluate performance locally using data set from Quandl.
-2. To implement same investment strategy in Quantopian. Also **backtest and perform live paper trading and evaluate performance**.
+#### 1. To implement simple moving average crossover algorithmic trading strategy, backtesting, evaluate performance locally using data set from Quandl.
+#### 2. To implement same investment strategy in Quantopian. Also **backtest and perform live paper trading and evaluate performance**.
 
 ### Contents in - Simple Moving Average(SMA) Crossover Algorithmic Trading Strategy.ipynb
 1. [Fetch stock data](1.-Fetch-stock-data)
